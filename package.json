@@ -11,7 +11,7 @@
     "prepare": "./scripts/setup-hooks.sh"
   },
   "overrides": {
-    "qs": ">=6.16.0 <7.0.0",
+    "qs": ">=6.17.1 <7.0.0",
     "fast-xml-parser": ">=5.5.6",
     "serialize-javascript": "^7.0.5",
     "minimatch": "^3.1.4",
@@ -55,7 +55,7 @@
     "nanoid": ">=3.3.18 <4.0.0",
     "webpack-dev-server": ">=5.2.6 <6.0.0",
     "esbuild": ">=0.28.1 <0.29.0",
-    "body-parser": ">=1.20.6 <2.0.0",
+    "body-parser": ">=1.20.9 <2.0.0",
     "browserslist": ">=4.28.7 <5.0.0",
     "postcss-selector-parser": ">=7.1.6 <8.0.0",
     "colord": ">=2.9.4 <3.0.0",
